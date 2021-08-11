@@ -1,0 +1,22 @@
+pais,infectados,fallecidos, continente
+EEUU,19346790,335789,América
+India,10286709,148994,Asia
+Brazil,7619200,193875,América
+Francia,2576420,64254,Europa
+Italia,2107166,74159,Europa
+España,1893502,50442,Europa
+Alemania,1742661,33624,Europa
+Colombia,1626461,42909,América
+Argentina,1613928,43163,América
+Mexico,1413935,124897,América
+China,96762,4789,Asia
+Pakistan,479715,10105,Asia
+Mongolia,1215,0,Asia
+Cambodia,378,0,Asia
+Noruega,48278,436,Europa
+Peru,1012614,37621,América
+Ecuador,212512,14034,América
+Argelia,99610,2756,África
+Egipto,138062,7631,África
+Turquia,1394314,20881,Europa
+Australia,28408,909,Oceanía
