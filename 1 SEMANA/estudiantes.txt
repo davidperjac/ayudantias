@@ -1,0 +1,5 @@
+linea,usuarioEstud,cedEstud,NombEstud,cedProf,MateriaRecibida,VecesTomada
+1,mruiz,1029385329,Maria Ruiz,1087654321,Fundamentos Programacion,2
+2,Icepeda,3452486432,Luis Cepeda,1209876543,Comunicacion 1, 2
+3,rramirez,0987654321, Roberto Ramirez,1087654321,Fundamentos Programacion,1
+4,mruiz,1029385329,Maria Ruiz,1087654321, Ing.Software,1
