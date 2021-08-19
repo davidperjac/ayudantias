@@ -1,0 +1,5 @@
+Empresa David
+Cliente: 1302511926
+Detalle Deuda: 
+04-325363 nac : 2.6999999999999997 inter : 0.6000000000000001 total : 3.3
+TOTAL A PAGAR : 3.3

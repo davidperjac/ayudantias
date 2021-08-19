@@ -27,6 +27,7 @@ def anadirEstudiantes(nomArchivo,d):
         d['Estudiantes']['total2Vez']+=1
 
   d['Estudiantes']['cedula'] = tuple(d['Estudiantes']['cedula'])
+  file.close()
 
 #test
 

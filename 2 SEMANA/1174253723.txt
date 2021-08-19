@@ -1,0 +1,7 @@
+Empresa David
+Cliente: 1174253723
+Detalle Deuda: 
+04-430419 nac : 0.8999999999999999 inter : 1.5 total : 2.4
+04-324426 nac : 0.0 inter : 0.45 total : 0.45
+04-283497 nac : 0.44999999999999996 inter : 1.35 total : 1.8
+TOTAL A PAGAR : 4.65

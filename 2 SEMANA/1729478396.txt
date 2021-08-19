@@ -1,0 +1,5 @@
+Empresa David
+Cliente: 1729478396
+Detalle Deuda: 
+04-437289 nac : 0.12 inter : 0.1 total : 0.22
+TOTAL A PAGAR : 0.22
