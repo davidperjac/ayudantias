@@ -1,0 +1,6 @@
+201145678,Juan,Guerra,3,calculo,fisica,quimica
+201234348,Pedro,Perez,2,estadistica,computacion
+201233021,Roberto,Lara,1,calculo
+201534348,Manuelita,Lopez,1,fundamentos
+201511011,Juana,Arcos,2,quimica,aleman
+202008933,David,Perez,4,calculo,fisica,redes,quimica
