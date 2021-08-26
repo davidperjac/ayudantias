@@ -1,0 +1,6 @@
+id,edad,instruccion,detencion1,detencion2,...
+5740994,36,tercer nivel,robo
+5015735,41,secundaria,terrorismo,robo
+0157569,45,tercer nivel,vandalismo
+3456898,58,primaria,robo
+1234568,25,tercer nivel

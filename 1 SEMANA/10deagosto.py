@@ -14,7 +14,7 @@ def calculaTotales(categoria) :
   return dic
 
 prueba = calculaTotales("1 SEMANA/flores.txt")
-print(prueba)
+#print(prueba)
 
 # UNIDAD 7 COLECCIONES
 
@@ -30,4 +30,4 @@ def informacionCovid(archivo) :
   return dic
 
 prueba2 = informacionCovid("1 SEMANA/infectados.txt")
-#print(prueba2)
+print(prueba2)
