@@ -1,0 +1,3 @@
+comidas de victor,3.0
+picanteria doña ceci,4.5
+tres arbolitos,2.5

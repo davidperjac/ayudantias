@@ -1,0 +1,5 @@
+la hamburguesas de nina,5|7,hamburguesas|papas
+pollos barcelona,5|5,menestra|pollo asado
+comidas de victor,6|7,seco de pollo|menestra|bollo
+picanteria doña ceci,2|4,ceviche|encebollado|bollo
+tres arbolitos,2|4,encebollado|bollo|caldo de bola

@@ -99,22 +99,37 @@ dicc_mensajes, pal_sosp= leer_mensajes(dicc_peligrosidad, palabrasclaves)
 print(dicc_mensajes)
 
 def generar_reporte(dicc_peligrosidad, dicc_mensajes):
-  file= open("reporte.txt", "w")
-  persona=[]
-  rankings=[]
+  #NO HAGAN EN CASA
+  #file= open("reporte.txt", "w")
+  #persona=[]
+  #rankings=[]
   
-  for clave in dicc_peligrosidad:
-    ranking=dicc_peligrosidad[clave]
-    if ranking>=30 and dicc_mensajes[{}] :
-      persona.append(clave)
-      rankings.append(ranking)
+  #for clave in dicc_peligrosidad:
+    #ranking=dicc_peligrosidad[clave]
+    #if ranking>=30 and dicc_mensajes[{}] :
+      #persona.append(clave)
+      #rankings.append(ranking)
 
-      file.write("idsospechoso"+"ranking"+"numeropalabrassospechosas"+"\n")
+      #file.write("idsospechoso"+"ranking"+"numeropalabrassospechosas"+"\n")
+  #file.close()
+  #return file
+  
+  #SI
+  file = open("reporte2.txt","a")
+  
+  for id,puntos in dicc_peligrosidad.items():
+    lista_dic_id = dicc_mensajes[id]
+    total_palabras_sospechosas = 0
+    for dic_id in lista_dic_id : 
+      total_palabras_sospechosas += dic_id['palabras_sospechosas']
+    
+    if (puntos >= 30 and total_palabras_sospechosas >= 2) :
+      file.write(id+","+str(puntos)+","+str(total_palabras_sospechosas)+"\n")
   file.close()
-  return file
 
-#reporte= generar_reporte(dicc_peligrosidad, dicc_mensajes)
-#print(reporte)
+
+#generar_reporte(dicc_peligrosidad, dicc_mensajes)
+
 
 #extra
 #implemente la funcion plataformas_mas_usadas para que imprima el pantalla las dos plataformas que mas se usaron en el envio de mensajes sospechos. Se debe imprimir el nombre de la plataforma y el numero de veces usadas

@@ -1,0 +1,17 @@
+usuario1,la hamburguesas de nina,5,deliciosas hamburguesas y la porcion super grande
+usuario2,pollos barcelona,3,el tamanio esta bien pero le falta sazon
+usuario3,comidas de victor,4,muy buen seco de pollo
+usuario4,pollos barcelona,4,el pollo bien y la menestra mejos
+usuario4,la hamburguesas de nina,4,la haburguesa meicana le faltaba mas guacamole
+usuario5,pollos barcelona,3,la comida buena la atencionn puede mejorar
+usuario3,picanteria doña ceci,4,la comida muy buena
+usuario3,la hamburguesas de nina,4,Muy buenas la mejor es la jalapena.
+usuario1,comidas de victor,3,el tamanio de la porcion pequena 
+usuario5,comidas de victor,2,la comida estaba fria
+usuario1,picanteria doña ceci,5, excelentes mariscos 
+usuario5,tres arbolitos,2,los camarones del ceviche super chiquitos
+usuario4,tres arbolitos,3,el encbollado bueno pero la atencion mala
+David,los arbolitos,5,muy rico 
+David,comidas de victor,0,horrible 
+usuario4,los arbolitos,4,el encebollado bueno
+usuario3,los arbolitos,5,bueno
