@@ -1,0 +1,4 @@
+Día-mes-año,Punto_origen,punto_destino,tipo_articulo,km_recorridos,peso_envio(lb)
+01-01-2020,Urdesa,Kennedy,comida,7,1.2
+05-02-2020,La Pradera,Valdivia,ropa,250,1.5
+04-01-2020,Los Ceibos,Ceibos Norte,comida,5,2.4
