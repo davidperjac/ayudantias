@@ -1,0 +1,18 @@
+Etiquetas de filas y columnas
+=============================
+Vacunas:Pfizer,Sinovac,Astrazeneca,Cansino
+Ciudades:Bogota,Lima,Quito,La Paz,Santiago,Manizales,Dallas,New York City
+
+Poblacion
+=========
+Bogota:11000000,Lima:10882000,Quito:1900500,La Paz:1880000,Santiago:23434000
+
+Vacunacion
+==========
+Bogota;28-03-2021;Pfizer,157|Sinovac,103|Astrazeneca,109|Cansino,222
+Bogota;30-03-2021;Pfizer,89|Sinovac,66|Astrazeneca,33|Cansino,99
+Bogota;29-05-2021;Pfizer,100|Sinovac,100|Astrazeneca,200|Cansino,180
+Lima;28-03-2021;Pfizer,89|Sinovac,123|Astrazeneca,189|Cansino,22
+Quito;28-03-2021;Pfizer,157|Sinovac,103|Astrazeneca,109|Cansino,222
+La Paz;28-03-2021;Pfizer,157|Sinovac,103|Astrazeneca,109|Cansino,222
+La Paz;28-08-2021;Pfizer,157|Sinovac,103|Astrazeneca,109|Cansino,222
